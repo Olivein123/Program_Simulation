@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program_Simulation_Potolin", "Program_Simulation_Potolin\Program_Simulation_Potolin.csproj", "{E1B842BB-88E1-49EA-AE94-DBA70F008DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B842BB-88E1-49EA-AE94-DBA70F008DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B842BB-88E1-49EA-AE94-DBA70F008DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B842BB-88E1-49EA-AE94-DBA70F008DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B842BB-88E1-49EA-AE94-DBA70F008DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4BE33B-E96A-486E-AD35-2922F952D5ED}
+	EndGlobalSection
+EndGlobal
